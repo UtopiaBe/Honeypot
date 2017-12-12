@@ -1,4 +1,4 @@
 # Honeypot
-Honeypot
+Simple honeypot writen in python with scapy.
 
-Hmm
+Proof: https://www.youtube.com/watch?v=QFwL5EOFNCQ
