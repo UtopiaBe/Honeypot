@@ -5,6 +5,8 @@ Simple honeypot writen in python with scapy.
 * Writeup: https://csi-blog.com/honeypot/
 
 # ~$ Description
-The script will detect your mac address (manual sellection coming soon)
-And will sniff all incoming TCP data for all 65535 ports
-And will response as Syn/Ack on all ports.
+The script will detect your mac address (manual sellection coming soon),
+
+and will sniff all incoming TCP data for all 65535 ports,
+
+and will response as Syn/Ack on all ports.
